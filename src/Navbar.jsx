@@ -1,36 +1,31 @@
-import React, { useState, useEffect } from "react";
-
+import React, { useState } from "react";
+import Contact from "./Contact";
 
 const Navbar = () => {
-  const [theme, setTheme] = useState("dark");
+  const [menuOpen, setMenuOpen] = useState(false);
 
-  useEffect(() => {
-    document.body.className = theme;
-  }, [theme]);
-
-  const toggleTheme = () => {
-    setTheme(theme === "dark" ? "light" : "dark");
+  const handleScroll = (id) => {
+    const section = document.getElementById(id);
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth" });
+      setMenuOpen(false); // Close menu after navigation
+    }
   };
 
   return (
     <nav className="navbar">
       <div className="nav-left">Portfolio</div>
-      <div className="nav-right">
-        <button onClick={() => document.getElementById("projects")?.scrollIntoView({ behavior: "smooth" })}>
-          Projects
-        </button>
-        <button onClick={() => document.getElementById("skills")?.scrollIntoView({ behavior: "smooth" })}>
-          Skills
-        </button>
-        <button onClick={() => document.getElementById("education")?.scrollIntoView({ behavior: "smooth" })}>
-          Education
-        </button>
-        <button onClick={() => document.getElementById("activities")?.scrollIntoView({ behavior: "smooth" })}>
-          Activities
-        </button>
-        <button onClick={toggleTheme}>
-          {theme === "dark" ? "Light" : "Dark"} Mode
-        </button>
+
+      <div className="menu-icon" onClick={() => setMenuOpen(!menuOpen)}>
+        {menuOpen ? "✖" : "☰"}
+      </div>
+
+      <div className={`nav-right ${menuOpen ? "open" : ""}`}>
+        <button onClick={() => handleScroll("projects")}>Projects</button>
+        <button onClick={() => handleScroll("skills")}>Skills</button>
+        <button onClick={() => handleScroll("education")}>Education</button>
+       <button onClick={() => handleScroll("activities")}>Activities</button>
+         <button onClick={() => handleScroll("contact")}>Contact</button>
       </div>
     </nav>
   );
