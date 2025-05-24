@@ -9,7 +9,7 @@
 }
 
 .contact-section.light {
-  background: linear-gradient(270deg, #8b30ec, #92fe9d);
+  background: linear-gradient(270deg, #00C9FF, #92FE9D); /* professional gradient */
   color: #000;
 }
 
