@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/poojaportfolio/static/css/main.077b7c59.chunk.css",
-    "main.js": "/poojaportfolio/static/js/main.86db9b9f.chunk.js",
-    "main.js.map": "/poojaportfolio/static/js/main.86db9b9f.chunk.js.map",
-    "runtime-main.js": "/poojaportfolio/static/js/runtime-main.7a6c4a93.js",
-    "runtime-main.js.map": "/poojaportfolio/static/js/runtime-main.7a6c4a93.js.map",
-    "static/js/2.28527a0d.chunk.js": "/poojaportfolio/static/js/2.28527a0d.chunk.js",
-    "static/js/2.28527a0d.chunk.js.map": "/poojaportfolio/static/js/2.28527a0d.chunk.js.map",
-    "static/js/3.54f2bb70.chunk.js": "/poojaportfolio/static/js/3.54f2bb70.chunk.js",
-    "static/js/3.54f2bb70.chunk.js.map": "/poojaportfolio/static/js/3.54f2bb70.chunk.js.map",
-    "index.html": "/poojaportfolio/index.html",
-    "precache-manifest.f63fb2e37836ca77d80d6654bd3dd6f1.js": "/poojaportfolio/precache-manifest.f63fb2e37836ca77d80d6654bd3dd6f1.js",
-    "service-worker.js": "/poojaportfolio/service-worker.js",
-    "static/css/main.077b7c59.chunk.css.map": "/poojaportfolio/static/css/main.077b7c59.chunk.css.map",
-    "static/js/2.28527a0d.chunk.js.LICENSE.txt": "/poojaportfolio/static/js/2.28527a0d.chunk.js.LICENSE.txt"
+    "main.css": "/PoojaKamatchi/static/css/main.077b7c59.chunk.css",
+    "main.js": "/PoojaKamatchi/static/js/main.86db9b9f.chunk.js",
+    "main.js.map": "/PoojaKamatchi/static/js/main.86db9b9f.chunk.js.map",
+    "runtime-main.js": "/PoojaKamatchi/static/js/runtime-main.66b1af05.js",
+    "runtime-main.js.map": "/PoojaKamatchi/static/js/runtime-main.66b1af05.js.map",
+    "static/js/2.28527a0d.chunk.js": "/PoojaKamatchi/static/js/2.28527a0d.chunk.js",
+    "static/js/2.28527a0d.chunk.js.map": "/PoojaKamatchi/static/js/2.28527a0d.chunk.js.map",
+    "static/js/3.54f2bb70.chunk.js": "/PoojaKamatchi/static/js/3.54f2bb70.chunk.js",
+    "static/js/3.54f2bb70.chunk.js.map": "/PoojaKamatchi/static/js/3.54f2bb70.chunk.js.map",
+    "index.html": "/PoojaKamatchi/index.html",
+    "precache-manifest.16297e0b55d25e7d29d2414c0ea35341.js": "/PoojaKamatchi/precache-manifest.16297e0b55d25e7d29d2414c0ea35341.js",
+    "service-worker.js": "/PoojaKamatchi/service-worker.js",
+    "static/css/main.077b7c59.chunk.css.map": "/PoojaKamatchi/static/css/main.077b7c59.chunk.css.map",
+    "static/js/2.28527a0d.chunk.js.LICENSE.txt": "/PoojaKamatchi/static/js/2.28527a0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a6c4a93.js",
+    "static/js/runtime-main.66b1af05.js",
     "static/js/2.28527a0d.chunk.js",
     "static/css/main.077b7c59.chunk.css",
     "static/js/main.86db9b9f.chunk.js"
