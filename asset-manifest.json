@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PoojaKamatchi/poojaportfolio.git/static/css/main.077b7c59.chunk.css",
+    "main.js": "/PoojaKamatchi/poojaportfolio.git/static/js/main.86db9b9f.chunk.js",
+    "main.js.map": "/PoojaKamatchi/poojaportfolio.git/static/js/main.86db9b9f.chunk.js.map",
+    "runtime-main.js": "/PoojaKamatchi/poojaportfolio.git/static/js/runtime-main.995bf57e.js",
+    "runtime-main.js.map": "/PoojaKamatchi/poojaportfolio.git/static/js/runtime-main.995bf57e.js.map",
+    "static/js/2.28527a0d.chunk.js": "/PoojaKamatchi/poojaportfolio.git/static/js/2.28527a0d.chunk.js",
+    "static/js/2.28527a0d.chunk.js.map": "/PoojaKamatchi/poojaportfolio.git/static/js/2.28527a0d.chunk.js.map",
+    "static/js/3.54f2bb70.chunk.js": "/PoojaKamatchi/poojaportfolio.git/static/js/3.54f2bb70.chunk.js",
+    "static/js/3.54f2bb70.chunk.js.map": "/PoojaKamatchi/poojaportfolio.git/static/js/3.54f2bb70.chunk.js.map",
+    "index.html": "/PoojaKamatchi/poojaportfolio.git/index.html",
+    "precache-manifest.50dde88446e3dabaa50a5b69c177509d.js": "/PoojaKamatchi/poojaportfolio.git/precache-manifest.50dde88446e3dabaa50a5b69c177509d.js",
+    "service-worker.js": "/PoojaKamatchi/poojaportfolio.git/service-worker.js",
+    "static/css/main.077b7c59.chunk.css.map": "/PoojaKamatchi/poojaportfolio.git/static/css/main.077b7c59.chunk.css.map",
+    "static/js/2.28527a0d.chunk.js.LICENSE.txt": "/PoojaKamatchi/poojaportfolio.git/static/js/2.28527a0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.995bf57e.js",
+    "static/js/2.28527a0d.chunk.js",
+    "static/css/main.077b7c59.chunk.css",
+    "static/js/main.86db9b9f.chunk.js"
+  ]
+}
